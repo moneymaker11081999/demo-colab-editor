@@ -4,10 +4,10 @@ module.exports = {
   mailer: {
     service: 'Gmail',
     auth: {
-      user: 'YOUR_GMAIL_ADDRESS',
-      pass: 'YOUR_GMAIL_PASSWORD'
+      user: 'cachepdibao13@gmail.com',
+      pass: 'Roadtoti6'
     }
   },
-  dbConnstring: 'mongodb://admin:123@ds137760.mlab.com:37760/code4share',
+  dbConnstring: 'mongodb+srv://cachepdibao13:Roadtoti6@cluster0.hmdao.mongodb.net/OnlineCollabarativeEditor?retryWrites=true&w=majority',
   sessionKey: 'HaloCode4Share'
 }
